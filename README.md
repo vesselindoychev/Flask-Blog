@@ -3,5 +3,5 @@ Blog Website created with Flask. Only admin has permissions to create, edit and 
 This project was already created in another repo, so i replaced here and that's why it is added with only one commit.
 
 # Authentication
-Login and Register forms
+Login and Register forms \n
 Logout redirect
