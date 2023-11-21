@@ -5,6 +5,7 @@ This project was already created in another repo, so i replaced here and that's 
 # Authentication
 Login and Register forms
 Logout redirect
+Hashing passwords
 
 # Link
 https://blog-app-with-flask.onrender.com
