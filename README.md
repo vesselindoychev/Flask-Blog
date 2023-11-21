@@ -6,5 +6,5 @@ This project was already created in another repo, so i replaced here and that's 
 Login and Register forms
 Logout redirect
 
-#Link to website
+# Link to website
 https://blog-app-with-flask.onrender.com
