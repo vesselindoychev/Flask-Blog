@@ -28,7 +28,7 @@
       <div class="col-md-10 col-lg-8 col-xl-7">
         {{ post.body|safe }}
 
-        {% if not current_user or current_user.id == 2 %}
+        {% if not current_user or current_user.id == 1 %}
           <div class="d-flex justify-content-end mb-4">
             <!-- TODO: Editing posts-->
             <a
