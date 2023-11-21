@@ -3,5 +3,8 @@ Blog Website created with Flask. Only admin has permissions to create, edit and 
 This project was already created in another repo, so i replaced here and that's why it is added with only one commit.
 
 # Authentication
-Login and Register forms \n
+Login and Register forms
 Logout redirect
+
+#Link to website
+https://blog-app-with-flask.onrender.com
